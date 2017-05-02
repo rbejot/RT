@@ -1,2 +1,2 @@
 # RT
-Ce projet n’est rien d’autre qu’une apothéose d’images de synthèse fabuleuses.
+Réalisation d'image de synthèse selon la méthode du Ray-Tracing.
